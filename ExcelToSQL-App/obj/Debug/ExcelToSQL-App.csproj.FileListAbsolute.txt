@@ -1,0 +1,13 @@
+C:\Users\emre_\source\repos\ExcelToSQL-App\ExcelToSQL-App\bin\Debug\ExcelToSQL-App.exe.config
+C:\Users\emre_\source\repos\ExcelToSQL-App\ExcelToSQL-App\bin\Debug\ExcelToSQL-App.exe
+C:\Users\emre_\source\repos\ExcelToSQL-App\ExcelToSQL-App\bin\Debug\ExcelToSQL-App.pdb
+C:\Users\emre_\source\repos\ExcelToSQL-App\ExcelToSQL-App\obj\Debug\ExcelToSQL-App.csproj.AssemblyReference.cache
+C:\Users\emre_\source\repos\ExcelToSQL-App\ExcelToSQL-App\obj\Debug\ExcelToSQL_App.Form1.resources
+C:\Users\emre_\source\repos\ExcelToSQL-App\ExcelToSQL-App\obj\Debug\ExcelToSQL_App.Properties.Resources.resources
+C:\Users\emre_\source\repos\ExcelToSQL-App\ExcelToSQL-App\obj\Debug\ExcelToSQL-App.csproj.GenerateResource.cache
+C:\Users\emre_\source\repos\ExcelToSQL-App\ExcelToSQL-App\obj\Debug\ExcelToSQL-App.csproj.CoreCompileInputs.cache
+C:\Users\emre_\source\repos\ExcelToSQL-App\ExcelToSQL-App\obj\Debug\ExcelToSQL-App.exe
+C:\Users\emre_\source\repos\ExcelToSQL-App\ExcelToSQL-App\obj\Debug\ExcelToSQL-App.pdb
+C:\Users\emre_\source\repos\ExcelToSQL-App\ExcelToSQL-App\obj\Debug\ExcelToSQL-App.csproj.ResolveComReference.cache
+C:\Users\emre_\source\repos\ExcelToSQL-App\ExcelToSQL-App\obj\Debug\ExcelToSQL_App.Form2.resources
+C:\Users\emre_\source\repos\ExcelToSQL-App\ExcelToSQL-App\obj\Debug\ExcelToSQL_App.Form3.resources
